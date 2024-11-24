@@ -8,8 +8,8 @@ TAGS
 bazel-*
 build/
 Test/localResults/
-External/googletest
-External/spirv-tools
+# External/googletest
+# External/spirv-tools
 out/
 CMakeUserPresets.json
 
